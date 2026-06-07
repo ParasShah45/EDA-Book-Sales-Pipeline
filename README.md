@@ -8,7 +8,7 @@ This project performs Exploratory Data Analysis (EDA) on a book sales dataset to
 The objective of this project is to transform raw book sales data into actionable business insights that can help publishers, retailers, and authors make data-driven decisions.
 
 
-##Dataset Information
+## Dataset Information
 
 The dataset contains information related to books, including:
 
@@ -26,7 +26,7 @@ The dataset contains information related to books, including:
 The dataset was analyzed to identify sales trends, top-performing authors, popular genres, pricing patterns, and customer engagement metrics
 
 
-##Data Cleaning Steps
+## Data Cleaning Steps
 
 The following data preprocessing and cleaning steps were performed:
 
