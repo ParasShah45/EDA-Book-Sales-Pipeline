@@ -1,4 +1,4 @@
-# ETL Sales Pipeline
+# Book Sales EDA Analysis
 
 ## Project Overview
 This project demonstrates an ETL pipeline using Python.
